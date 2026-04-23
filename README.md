@@ -14,7 +14,7 @@ This repository contains the deliverables for the Digital Literacy Module. As a 
 
 ## 📂 Repository File Structure
 
-```text
+
 digital-literacy-project/
 ├── report/
 │   └── Project_Report_Tanmay_Tiwari.pdf       
@@ -36,7 +36,8 @@ digital-literacy-project/
 └── README.md
 
 
-🎯 Core Analytical Pillars
+
+## 🎯 Core Analytical Pillars
 1. The Illusion of Competence
 An investigation into how frictionless design tools (Canva, AI templates) create an aesthetic "professionalism" that can hide a lack of substantive technical understanding.
 
